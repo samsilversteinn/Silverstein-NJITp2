@@ -31,6 +31,7 @@ body {
 	z-index: 3;
 	opacity: .8;
 	top: 0px;
+	text-align: center;
 }
 
 .thumbnail {
@@ -70,7 +71,9 @@ body {
 
 /*Add CSS styles to rotate the element 90deg
 Make it animate nicely. You'll need CSS3 for this*/
-.rot90 {}
+.rot90 {
+	
+} 
 
 /*Add CSS styles to rotate the element 180deg
 Make it animate nicely. You'll need CSS3 for this*/
